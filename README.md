@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-siftwright-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://siftwright.com/
+Siftwright provides a suite of web data APIs for developers and AI agents, offering tools such as YouTube transcript extraction, website screenshots, Google News search, PDF rendering, contact detail extraction, app store reviews, tech stack detection, job listings, WHOIS/DNS lookup, and post‑quantum TLS scans. All services are accessible via a single REST API key with pay‑per‑result pricing, and include robust error handling and free failed‑request credits. The platform emphasizes clean JSON responses, easy integration, and supports both direct REST calls and MCP (Managed Cloud Proxy) for AI agent workflows.
+
+**Areas:** Company · API · Data · AI · Web-Data
+
+## siftwright-com on APIs.io
+
+Everything profiled for siftwright-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/siftwright-com/](https://apis.io/providers/siftwright-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Siftwright API](https://apis.io/apis/siftwright-com/siftwright-api/) — Web data endpoints for developers and AI agents.
+- [Siftwright API API](https://apis.io/apis/siftwright-com/siftwright-api-api/) — Plans: Starter $29/month (10,000 results), Pro $99/month (50,000 results), Business $299/month (250,000 results), Enterprise $999/month (1,500,000 results).…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [Result](https://apis.io/schemas/siftwright-com/siftwright-com-result/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Siftwright Com Context](https://apis.io/jsonld/siftwright-com/siftwright-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [siftwright-com API Rules](https://apis.io/rules/siftwright-com/siftwright-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Siftwright Com Domain Security](https://apis.io/security/siftwright-com/siftwright-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Siftwright Com Plans Pricing](https://apis.io/plans/siftwright-com/siftwright-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://siftwright.com/)
+- [Documentation](https://siftwright.com/docs/)
+- [API reference](https://siftwright.com/api/)
+- [Pricing](https://siftwright.com/pricing/)
+- [Support](https://siftwright.com/about/)
+- [Changelog](https://siftwright.com/changelog/)
+- [Blog](https://siftwright.com/blog/)
+- [Terms of service](https://siftwright.com/terms/)
+- [Privacy policy](https://siftwright.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 44.6** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 41.9 |
+| Contract governance | 70.9 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 60.0 |
+
+**Agent readiness 16.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/siftwright-com/](https://apis.io/providers/siftwright-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for siftwright-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/siftwright-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
